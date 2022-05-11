@@ -1,0 +1,5 @@
+Coffee 25 25 25
+Chocolate 25 25 25
+Milk 25 25 25
+Apple 25 25 25
+Orange 25 25 25

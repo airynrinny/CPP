@@ -1,0 +1,11 @@
+Amani Basic 0.4 42
+Shuhaimi Exclusive 0.6 99
+Maryam SuperSaver 0.2 110
+Izzat Exclusive 0.6 80
+Umayr SuperSaver 0.2 125
+Khairul Basic 0.4 56
+Sofea Basic 0.4 43
+Najla SuperSaver 0.2 78
+Iskandar SuperSaver 0.2 91
+AlFatih Exclusive 0.6 70
+
